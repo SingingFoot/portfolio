@@ -121,7 +121,7 @@ h4 {
     right: 6px;
 }
 
-.newslatter form input:last-child:hover {
+.newslatter form button:hover {
     transform: scale(0.95);
     transition: .4s;
     cursor: pointer;
